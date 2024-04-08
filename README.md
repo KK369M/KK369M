@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is kannan 
+</p>
 
 ###
 
@@ -78,7 +79,6 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/KKannan63/KKannan63/output/snake.svg" alt="Snake animation" />
 
 ###
 
