@@ -78,7 +78,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/KKannan63/KKannan63/output/snake.svg" alt="Snake animation" />
 
+###
 
 ###
 
