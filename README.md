@@ -80,6 +80,11 @@
 </div>
 
 ###
+<div align="center">
+  <img height="200" src="https://i.gifer.com/31Kl.gif"  />
+</div>
+
+###
 
 
 
@@ -100,17 +105,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KKannan63.KKannan63&"  />
-</div>
-
-###
-<div align="center">
-  <img height="200" src="https://i.gifer.com/I08b.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
