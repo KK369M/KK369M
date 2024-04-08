@@ -65,11 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" height="40" alt="packer logo"  />
 </div>
 
-###
-<div align="center">
-  <img height="200" src="https://i.gifer.com/I08b.gif"  />
-</div>
-###
+
 
 
 
