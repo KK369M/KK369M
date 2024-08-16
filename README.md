@@ -1,17 +1,17 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<table border="0">
+ <tr>
+    <td>
+      <br>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KK369M+1N;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=KK369M-IN&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="KK369M"/>
+      <br>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=KK369M&data=followers,repositories,stars,commits&theme=viridescent"/>
+    <td>
+      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+   </td>  
+ </tr>  
+</table>
 
-###
-
-<p align="left">My name is kannan 
-</p>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"> 📚  I'm currently learning ethical hacking.<br>- ⚡ In my free time, I practice techniques and tools to enhance my skills.</p>
 
 ###
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
