@@ -7,7 +7,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=KK369M&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+      <img alt="gif" src="./assets/images/download.gif">
    </td>  
  </tr>  
 </table>
