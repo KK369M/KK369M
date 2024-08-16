@@ -75,6 +75,8 @@
 </div>
 
 ###
+<!-- Contribution Snake -->
+<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
 
 
 
@@ -85,6 +87,7 @@
 
 
 ###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thamarai-kannan-k-685873277/" target="_blank">
